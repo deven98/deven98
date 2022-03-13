@@ -23,9 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **deven9852@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+![github stats](https://github-readme-stats.vercel.app/api?username=deven98&show_icons=true&hide=issues,contribs)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,5 +38,6 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=deven98&show_icons=true&hide=issues,contribs)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
