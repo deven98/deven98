@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **deven98/deven98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Deven Joshi</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deven98&label=Profile%20views&color=0e75b6&style=flat" alt="deven98" /> </p>
 
 <p align="left"> <a href="https://twitter.com/devenjoshi7" target="blank"><img src="https://img.shields.io/twitter/follow/devenjoshi7?logo=twitter&style=for-the-badge" alt="devenjoshi7" /></a> </p>
 
