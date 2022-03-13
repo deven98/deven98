@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Deven Joshi</h1>
+<h1>Hi 👋, I'm Deven Joshi</h1>
 
 <p align="left"> <a href="https://twitter.com/devenjoshi7" target="blank"><img src="https://img.shields.io/twitter/follow/devenjoshi7?logo=twitter&style=for-the-badge" alt="devenjoshi7" /></a> </p>
 
