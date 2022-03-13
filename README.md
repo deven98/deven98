@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **deven9852@gmail.com**
 
+- 😄 Pronouns: He/Him
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=deven98&show_icons=true&hide=issues,contribs)
 
 <h3 align="left">Connect with me:</h3>
