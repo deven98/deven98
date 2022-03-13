@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Flutter, Dart, and Generative Art**
 
-- 📫 How to reach me **deven9852@gmail.com**
+- 📫 How to reach me: **deven9852@gmail.com**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=deven98&show_icons=true&hide=issues,contribs)
 
