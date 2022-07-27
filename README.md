@@ -13,18 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi 👋, I'm Deven Joshi</h1>
-
-<p align="left"> <a href="https://twitter.com/devenjoshi7" target="blank"><img src="https://img.shields.io/twitter/follow/devenjoshi7?logo=twitter&style=for-the-badge" alt="devenjoshi7" /></a> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@dev.n](https://medium.com/@dev.n)
-
-- 💬 Ask me about **Flutter, Dart, and Generative Art**
-
-- 📫 How to reach me: **deven9852@gmail.com**
-
-- 😄 Pronouns: He/Him
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=deven98&show_icons=true&hide=issues,contribs)
 
 <h3 align="left">Connect with me:</h3>
@@ -37,10 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/c/devenjoshi98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devenjoshi98" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
-
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Definitive Flutter Guide To CustomPaint](https://medium.com/@dev.n/definitive-flutter-painting-guide-ab9f51202656?source=rss-abc8b1aeb318------2)
 - [Upgrading Enums in Flutter](https://medium.com/@dev.n/upgrading-enums-in-flutter-7bba960d17e7?source=rss-abc8b1aeb318------2)
