@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding DevRel: A Beginner’s Guide](https://medium.com/@dev.n/understanding-devrel-a-beginners-guide-a71063e4249e?source=rss-abc8b1aeb318------2)
 - [Definitive Flutter Guide To CustomPaint](https://medium.com/@dev.n/definitive-flutter-painting-guide-ab9f51202656?source=rss-abc8b1aeb318------2)
 - [Upgrading Enums in Flutter](https://medium.com/@dev.n/upgrading-enums-in-flutter-7bba960d17e7?source=rss-abc8b1aeb318------2)
 - [How to Add a Messenger-like Chess Game to Your Flutter Chat App](https://medium.com/@dev.n/how-to-add-a-messenger-like-chess-game-to-your-flutter-chat-app-965f1af25aa4?source=rss-abc8b1aeb318------2)
 - [A Deep Dive Into CustomPaint in Flutter](https://medium.com/flutter-community/a-deep-dive-into-custompaint-in-flutter-47ab44e3f216?source=rss-abc8b1aeb318------2)
-- [A Deep Dive Into Widget Testing in Flutter : Part II &lpar;Finder and WidgetTester&rpar;](https://medium.com/flutter-community/a-deep-dive-into-widget-testing-in-flutter-part-ii-finder-and-widgettester-f76f98b87a90?source=rss-abc8b1aeb318------2)
 <!-- BLOG-POST-LIST:END -->
