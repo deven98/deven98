@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Flutter SDK Part 1: Breaking Down a Flutter Package](https://medium.com/flutter-community/building-a-flutter-sdk-part-1-breaking-down-a-flutter-package-49fe36ec4b4b?source=rss-abc8b1aeb318------2)
 - [Understanding Image Generation with Diffusion](https://medium.com/@dev.n/understanding-image-generation-with-diffusion-78eea7e7d6f8?source=rss-abc8b1aeb318------2)
 - [The Breakdown: Flutter Text](https://medium.com/@dev.n/the-breakdown-flutter-text-f55be64199fe?source=rss-abc8b1aeb318------2)
 - [Understanding DevRel: A Beginner’s Guide](https://medium.com/@dev.n/understanding-devrel-a-beginners-guide-a71063e4249e?source=rss-abc8b1aeb318------2)
 - [Definitive Flutter Guide To CustomPaint](https://medium.com/@dev.n/definitive-flutter-painting-guide-ab9f51202656?source=rss-abc8b1aeb318------2)
-- [Upgrading Enums in Flutter](https://medium.com/@dev.n/upgrading-enums-in-flutter-7bba960d17e7?source=rss-abc8b1aeb318------2)
 <!-- BLOG-POST-LIST:END -->
